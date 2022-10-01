@@ -7,7 +7,7 @@ public class forHomework{
 			if(i % 9 == 0){
 				n++;
 				System.out.println(i);
-				int sum =+ i;
+				int sum += i;
 				
 			}
 			
